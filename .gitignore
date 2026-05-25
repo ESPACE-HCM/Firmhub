@@ -1,0 +1,8 @@
+.pio/
+build/
+*.bin
+*.elf
+*.hex
+*.dmp
+*.log
+*.cache
